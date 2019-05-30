@@ -1,2 +1,3 @@
 import newone
-main_
+
+sdfffsdf
