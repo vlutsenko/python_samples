@@ -1,0 +1,16 @@
+#####
+Set a global option:
+pip config set global.index-url https://my.private.repo.com/simple/
+pip config set global.trusted-host my.private.repo.com
+
+#####
+Get a specific option:
+pip config get global.index-url
+
+#####
+Unset an option:
+pip config unset global.trusted-host
+
+#####
+List all active configurations:
+pip config list
